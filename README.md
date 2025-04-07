@@ -2,6 +2,30 @@
 
 Im Rahmen des Mechatronik Studiums der Frankfurt University of Applied Sciences wurde unter der Betreuung von Prof. Dr.-Ing. Eric Guiffo Kaigom das Modul "Mechatronik-Projekt" durchgeführt.
 
+
+
+
+## Ergebnisse
+### Modus Wahl und zugreifen
+ #### Basic
+https://github.com/user-attachments/assets/77ec5cd7-3a51-4e67-9ec9-bc7a5ed30a57
+
+ ###Scissor
+https://github.com/user-attachments/assets/3e61cdf5-cbc7-443d-8b7e-024bef5640f7
+
+ ### Pinch
+https://github.com/user-attachments/assets/a84617e2-63d8-4120-b9c0-dbeea5d2b813)](https://github.com/user-attachments/assets/22571515-0a4d-4b16-b702-79c79daacaea
+
+### Zu Groß
+https://github.com/user-attachments/assets/721227b0-25e7-4cde-9df0-f06c05f0bd77
+
+## Kraftsteuerung
+### Mit Steuerung
+https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b](https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b
+
+### Ohne Steuerung
+https://github.com/user-attachments/assets/22d462dd-9e95-494e-b32d-cf39c58db372
+
 # Kurzzusammenfassung
 Ziel des Projekts war es, den 3-Finger-Greifer von Robotiq durch Sensordaten automatisiert zur
 Objektmanipulation zu konfigurieren. Hierzu wurde eine Stereokamera am Greifer montiert und
@@ -29,20 +53,10 @@ Robotiq so zu programmieren, dass eine intuitive Interaktion zwischen Mensch und
 erreicht wird. Ziel war es, eine Grundlage für diese Form der Zusammenarbeit zu schaffen –
 sowohl im alltäglichen als auch im industriellen Kontext
 
-## Ergebnisse
-### Modus Wahl und zugreifen
- #### Basic
-https://github.com/user-attachments/assets/77ec5cd7-3a51-4e67-9ec9-bc7a5ed30a57
 
 
-### Pinch
-https://github.com/user-attachments/assets/a84617e2-63d8-4120-b9c0-dbeea5d2b813)](https://github.com/user-attachments/assets/22571515-0a4d-4b16-b702-79c79daacaea
-
-## Kraftsteuerung
-https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b](https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b
 
 
-https://github.com/user-attachments/assets/22d462dd-9e95-494e-b32d-cf39c58db372
 
 
 
