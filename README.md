@@ -2,6 +2,7 @@
 
 Im Rahmen des Mechatronik Studiums der Frankfurt University of Applied Sciences wurde unter der Betreuung von Prof. Dr.-Ing. Eric Guiffo Kaigom das Modul "Mechatronik-Projekt" durchgeführt.
 
+Die Struktur des Respositorys ist in der 'Aufbau'-File nachzulesen.
 # Kurzzusammenfassung
 Ziel des Projekts war es, den 3-Finger-Greifer von Robotiq durch Sensordaten automatisiert zur
 Objektmanipulation zu konfigurieren. Hierzu wurde eine Stereokamera am Greifer montiert und
