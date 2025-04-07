@@ -28,11 +28,11 @@ def getObjectDimensiont(model,confidence, pipeline, depth_scale, align):
 
     # Safe size of object every tfreq seconds
     tmeass = 0.25
-    tInterval = 2                                                      #  maybe reduce it to two'''
+    tInterval = 2                                                      
     tCompare = time.time()
     i = -1  # index for saving values
 
-    # Arrays für die Bounding Box-Größen                                # Stattdessen Mittelpunkt der Box nehmen?
+    # Arrays für die Bounding Box-Größen                                
     xValues = [-50] * int(tInterval / tmeass)
     yValues = [-50] * int(tInterval / tmeass)
     tolerance = 1  # tolerance of derivating of object size [cm]
@@ -50,7 +50,7 @@ def getObjectDimensiont(model,confidence, pipeline, depth_scale, align):
 
 
     try:
-        end = None  # Variable für das finale Bild mit der roten Bounding Box  # waum wird das gemacht?
+        end = None  # Variable für das finale Bild mit der roten Bounding Box  
 
         while True:
             # Get images
@@ -112,7 +112,7 @@ def getObjectDimensiont(model,confidence, pipeline, depth_scale, align):
                     if z1 > 0:
                         mean_depth = z1
                     else:
-                        mean_depth = float('inf')           # Hier lieber continue? Ich denke ja
+                        mean_depth = float('inf')           
                         #continue
 
                     # Get closest object
@@ -142,7 +142,7 @@ def getObjectDimensiont(model,confidence, pipeline, depth_scale, align):
                         tCompare = time.time()
                         
                         i = (i + 1) % len(xValues)
-                        yValues[i] = (ydimension)                                    #if poblems with distance get array of distances!
+                        yValues[i] = (ydimension)                                    
                         xValues[i] = (xdimension)
                         # print(yValues)
                         # print(xValues)
