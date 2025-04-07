@@ -1,0 +1,25 @@
+Aufbau:
+
+Code:
+	Datensets:
+		messdatenZeit-Confidence1.1.csv
+		messdatenZeit-Confidence.csv
+		Labels.csv
+	-Auswertung: Auswertung der Aufgenommen Daten
+	-closing: Programm zum Schließen des Greifers
+	-DatenAufnehmen copy: Daten Aufnahme für messdatenZeit-	
+	-camTemp: Sensortemperatur Kamera
+	-depthTest: Testen der Tiefengenauigkeit
+	-KraftEinstellung: Code Snippet zum Einstellen der Kraft
+	-projekt: Ablauf des Projektes
+	-ObjectDetection. Verbesserte Algorithmus (vgl. yolo11Dimension)
+	-TCP_400: Bestimmung der Griffpunkte
+	-testDepth: Testen der Tiefenmessung
+	-yolo11Dimension: Objekterkennungsalgorithmus mit Dimensionsmessung
+	-yolo11n.pt vortrainiertes Ultralytics Modell
+
+Ergebnisse:
+	- Greifer -Videos zur Greifersteuerung
+	- Algorithmus - Videos der openCV Ausgabe, bei Ablauf
+Sonstiges:
+	- CAD Modell der Halterung
