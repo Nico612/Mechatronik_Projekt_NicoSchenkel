@@ -47,3 +47,5 @@ sowohl im alltäglichen als auch im industriellen Kontext
   - testDepth: Testen der Tiefenmessung
   - yolo11Dimension: Objekterkennungsalgorithmus mit Dimensionsmessung
   - yolo11n.pt vortrainiertes Ultralytics Modell
+ 
+https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b
