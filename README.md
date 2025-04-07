@@ -2,7 +2,20 @@
 
 Im Rahmen des Mechatronik Studiums der Frankfurt University of Applied Sciences wurde unter der Betreuung von Prof. Dr.-Ing. Eric Guiffo Kaigom das Modul "Mechatronik-Projekt" durchgeführt.
 
-Die Struktur des Respositorys ist in der 'Aufbau'-File nachzulesen.
+## Aufbau
+
+Die Struktur des Repositorys ist in der Datei **`Aufbau`** dokumentiert.
+
+Die wesentlichen Ergebnisse des Projekts sind im Videoformat im unteren Teil dieses README aufgeführt.
+
+Die wichtigsten Dateien befinden sich im Ordner **`Code`**:
+
+- `project.ipynb` – Workflow des gesamten Projekts  
+- `ObjectDetection.py` – Objekterkennungsalgorithmus (YOLO + Tiefendaten)  
+- `closing.py` – Algorithmus zum Schließen des Greifers  
+- `KraftEinstellung.ipynb` – Snippet zur objektspezifischen Kraftsteuerung
+
+
 # Kurzzusammenfassung
 Ziel des Projekts war es, den 3-Finger-Greifer von Robotiq durch Sensordaten automatisiert zur
 Objektmanipulation zu konfigurieren. Hierzu wurde eine Stereokamera am Greifer montiert und
