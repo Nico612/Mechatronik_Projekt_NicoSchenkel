@@ -30,9 +30,20 @@ erreicht wird. Ziel war es, eine Grundlage für diese Form der Zusammenarbeit zu
 sowohl im alltäglichen als auch im industriellen Kontext
 
 ## Ergebnisse
-Die Ergbnisvideos sind in dem Ordner mit dem selbigen Namen. 
-Dabei sindde Ergebnisse unterteilt in:
-  - Algorithmus: Zeigt wie der Benutzer die Algorithmen der Objketerkennung und der des Schließens sieht
-  - Greifer: Zeigt die Konfiguration bei verschiedenen Objektgrößen, sowie den Unterschied zum Schließen mit und ohne der realsierten Kraftsteuerung
+- Ergebnisvideos
+  - Algorithmus: Zeigt, wie der Benutzer die Algorithmen zur Objekterkennung und zum Schließen des Greifers wahrnimmt.
+  - Greifer: Zeigt die Konfiguration bei verschiedenen Objektgrößen sowie den Unterschied zwischen dem Schließen mit und ohne realisierte Kraftsteuerung.
+ 
+- Code
 
-Der wichtigste Code ist die projekt.ipynb file, in dieser ist der Ablauf des Programms
+  - Auswertung: Auswertung der Aufgenommen Daten
+  - closing: Programm zum Schließen des Greifers
+  - DatenAufnehmen copy: Daten Aufnahme für messdatenZeit-Confidence1.1.csv und messdatenZeit-Confidence.csv
+  - camTemp: Sensortemperatur Kamera
+  - depthTest: Testen der Tiefengenauigkeit
+  - KraftEinstellung: Code Snippet zum Einstellen der Kraft
+  - projekt: Ablauf des Projektes
+  - TCP_400: Bestimmung der Griffpunkte
+  - testDepth: Testen der Tiefenmessung
+  - yolo11Dimension: Objekterkennungsalgorithmus mit Dimensionsmessung
+  - yolo11n.pt vortrainiertes Ultralytics Modell
