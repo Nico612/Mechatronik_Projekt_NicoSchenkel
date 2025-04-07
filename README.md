@@ -30,22 +30,19 @@ erreicht wird. Ziel war es, eine Grundlage für diese Form der Zusammenarbeit zu
 sowohl im alltäglichen als auch im industriellen Kontext
 
 ## Ergebnisse
-- Ergebnisvideos
-  - Algorithmus: Zeigt, wie der Benutzer die Algorithmen zur Objekterkennung und zum Schließen des Greifers wahrnimmt.
-  - Greifer: Zeigt die Konfiguration bei verschiedenen Objektgrößen sowie den Unterschied zwischen dem Schließen mit und ohne realisierte Kraftsteuerung.
- 
-- Code
+### Modus Wahl und zugreifen
+ #### Basic
+https://github.com/user-attachments/assets/77ec5cd7-3a51-4e67-9ec9-bc7a5ed30a57
 
-  - Auswertung: Auswertung der Aufgenommen Daten
-  - closing: Programm zum Schließen des Greifers
-  - DatenAufnehmen copy: Daten Aufnahme für messdatenZeit-Confidence1.1.csv und messdatenZeit-Confidence.csv
-  - camTemp: Sensortemperatur Kamera
-  - depthTest: Testen der Tiefengenauigkeit
-  - KraftEinstellung: Code Snippet zum Einstellen der Kraft
-  - projekt: Ablauf des Projektes
-  - TCP_400: Bestimmung der Griffpunkte
-  - testDepth: Testen der Tiefenmessung
-  - yolo11Dimension: Objekterkennungsalgorithmus mit Dimensionsmessung
-  - yolo11n.pt vortrainiertes Ultralytics Modell
- 
-https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b
+
+### Pinch
+https://github.com/user-attachments/assets/a84617e2-63d8-4120-b9c0-dbeea5d2b813)](https://github.com/user-attachments/assets/22571515-0a4d-4b16-b702-79c79daacaea
+
+## Kraftsteuerung
+https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b](https://github.com/user-attachments/assets/1ec876d4-64b2-4d2b-bd0c-846bce38c20b
+
+
+https://github.com/user-attachments/assets/22d462dd-9e95-494e-b32d-cf39c58db372
+
+
+
