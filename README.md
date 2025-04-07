@@ -36,7 +36,8 @@ sowohl im alltäglichen als auch im industriellen Kontext
 https://github.com/user-attachments/assets/77ec5cd7-3a51-4e67-9ec9-bc7a5ed30a57
 
  ###Scissor
-https://github.com/user-attachments/assets/3e61cdf5-cbc7-443d-8b7e-024bef5640f7
+
+https://github.com/user-attachments/assets/8f732cc7-6318-4de4-9797-5b23e53353ec
 
  ### Pinch
 https://github.com/user-attachments/assets/a84617e2-63d8-4120-b9c0-dbeea5d2b813)](https://github.com/user-attachments/assets/22571515-0a4d-4b16-b702-79c79daacaea
